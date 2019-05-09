@@ -15,7 +15,7 @@ Simple repo to demonstrate "How to start with Mobile Automation" across platform
 Jump to [Chapter 1](https://github.com/thenishant/Getting_started_with_Mobile_Automation/tree/master/chapter%201) 
 
 ## Configurations
-- Environment variables
+- [Environment variables](https://github.com/thenishant/Getting_started_with_Mobile_Automation/blob/master/chapter%202/README.md)
 - Capabilities
 - Locators (Appium desktop or UiAutomator)
 
