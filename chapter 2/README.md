@@ -20,13 +20,13 @@
 
 - Set **JAVA_HOME**
  
-  Search for **Advanced settings**   
-  Click the **Advanced tab**, then click the **Environment Variables** button.  
-  Under **System Variables**, click New.  
-  Enter the variable name as **JAVA_HOME**.  
-  Enter the variable value as the **installation path** for the Java Development Kit.  
-  Click **OK**.  
-  Click **Apply Changes**.
+  - Search for **Advanced settings**   
+  - Click the **Advanced tab**, then click the **Environment Variables** button.  
+  - Under **System Variables**, click New.  
+  - Enter the variable name as **JAVA_HOME**.  
+  - Enter the variable value as the **installation path** for the Java Development Kit.  
+  - Click **OK**.  
+  - Click **Apply Changes**. 
 
   ![alt text](https://i.imgur.com/P6NQyrz.jpg)
   
