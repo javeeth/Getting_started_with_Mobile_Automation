@@ -12,7 +12,7 @@ Simple repo to demonstrate "How to start with Mobile Automation" across platform
    ``npm i -g appium-doctor``
 
 ## Verifying the Installation
-- Jump to [Chapter 1](https://github.com/thenishant/Getting_started_with_Mobile_Automation/tree/master/chapter%201) 
+-  Verify installation [here](https://github.com/thenishant/Getting_started_with_Mobile_Automation/tree/master/chapter%201) 
 
 ## Configurations
 - Environment variables
