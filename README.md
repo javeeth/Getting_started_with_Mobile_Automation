@@ -28,7 +28,7 @@ Simple repo to demonstrate "How to start with Mobile Automation" across platform
 - Locating elements 
     - [UiAutomatorViewer](https://github.com/thenishant/Getting_started_with_Mobile_Automation/blob/master/chapter%203/README.md)
     - [Appium desktop](https://github.com/thenishant/Getting_started_with_Mobile_Automation/blob/master/chapter%203/README.md)
-- Capabilities
+- [Capabilities](https://github.com/thenishant/Getting_started_with_Mobile_Automation/blob/master/chapter%203/README.md)
 
 ## Writing code
 
