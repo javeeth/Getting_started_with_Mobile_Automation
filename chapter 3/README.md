@@ -12,7 +12,7 @@ We will use default and simple calculator app of android phone to learn how to i
 - Run **uiautomatorviewer.bat** file from **E:\SDK\tools** folder. Click [here](https://github.com/thenishant/Getting_started_with_Mobile_Automation/blob/master/chapter%202/README) to know more about SDK folder. 
 
  - It will open **UI Automator Viewer** tool's UI as bellow.
-
+ 
     ![](https://i.imgur.com/OV63zpQ.png)
 
  - Open **Calculator application** in your android phone.
@@ -29,7 +29,7 @@ We will use default and simple calculator app of android phone to learn how to i
 
     
  - In calculator screenshot (which is display in UI Automator Viewer), Select **button 5** to view it's different properties as shown in bellow image.
-    
+ 
     ![](https://i.imgur.com/8CtODLI.png)
      
  - It is showing different properties of **button 5** in right side node detail section which we can use to locate it using different element locating strategy. 
