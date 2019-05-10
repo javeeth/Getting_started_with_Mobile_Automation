@@ -31,6 +31,6 @@ Simple repo to demonstrate "How to start with Mobile Automation" across platform
 
 ## Writing code
     
-   [code](https://github.com/thenishant/Getting_started_with_Mobile_Automation/blob/master/chapter%204/SimpleAndroidCalcTest.java)
+   [Java code](https://github.com/thenishant/Getting_started_with_Mobile_Automation/blob/master/chapter%204/SimpleAndroidCalcTest.java) for test Calculator.
 
 ## troubleshooting
