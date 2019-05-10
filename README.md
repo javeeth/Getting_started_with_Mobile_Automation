@@ -35,4 +35,4 @@ Simple repo to demonstrate "How to start with Mobile Automation" across platform
 
 ## Troubleshooting
 
-  [Troubleshooting guide]()
+  [Troubleshooting guide](https://github.com/thenishant/Getting_started_with_Mobile_Automation/blob/master/chapter%205/README.md#Troubleshooting-guide)
