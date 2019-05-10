@@ -23,7 +23,7 @@ Simple repo to demonstrate "How to start with Mobile Automation" across platform
    - [Enable Developer Option](https://github.com/thenishant/Getting_started_with_Mobile_Automation/blob/master/chapter-2/README.md#Enable-Developer-Option)
    - [To start USB Debugging mode](https://github.com/thenishant/Getting_started_with_Mobile_Automation/blob/master/chapter-2/README.md#TostartUSBDebuggingmode)
    - [Verify Device Connected Properly With PC](https://github.com/thenishant/Getting_started_with_Mobile_Automation/blob/master/chapter-2/README.md#To-start-USB-Debugging-mode)
-R
+
 ## Last steps before running test
 - Locating elements 
     - [UiAutomatorViewer](https://github.com/thenishant/Getting_started_with_Mobile_Automation/blob/master/chapter-3/README.md#Locating-elements-using-UIAutomatorViewer)
