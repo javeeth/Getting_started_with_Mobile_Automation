@@ -16,13 +16,13 @@ Simple repo to demonstrate "How to start with Mobile Automation" across platform
 
 ## Configurations
 - [Environment variables](https://github.com/thenishant/Getting_started_with_Mobile_Automation/blob/master/chapter%202/README.md)
-   - on macOS
-   - on Windows
-   - on Linux distributions
+   - [on macOS](https://github.com/thenishant/Getting_started_with_Mobile_Automation/blob/master/chapter%202/README.md#onmacOS)
+   - [on Windows](https://github.com/thenishant/Getting_started_with_Mobile_Automation/blob/master/chapter%202/README.md#onWindows)
+   - [on Linux distributions](https://github.com/thenishant/Getting_started_with_Mobile_Automation/blob/master/chapter%202/README.md#onLinuxdistributions)
 - Connect device In USB debugging mode  
-   - Enable Developer Option
-   - To start USB Debugging mode
-   - Verify Device Connected Properly With PC
+   - [Enable Developer Option](https://github.com/thenishant/Getting_started_with_Mobile_Automation/blob/master/chapter%202/README.md#EnableDeveloperOption)
+   - [To start USB Debugging mode](https://github.com/thenishant/Getting_started_with_Mobile_Automation/blob/master/chapter%202/README.md#TostartUSBDebuggingmode)
+   - [Verify Device Connected Properly With PC](https://github.com/thenishant/Getting_started_with_Mobile_Automation/blob/master/chapter%202/README.md#TostartUSBDebuggingmode)
 
 ## Last steps before running test
 - Locators (Appium desktop or UiAutomator)

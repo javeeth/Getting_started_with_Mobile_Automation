@@ -40,7 +40,7 @@
 
 ## Connect device In USB debugging mode
  You need to connect real android device with PC in USB debugging mode in order to run android app automation tests in real android device using appium.
-   #### Enable Developer Option
+   ### Enable Developer Option
    To enable **Developer Option** in android device
   - Go to **Settings**.
   - Scroll down to bottom and tap on **About Phone**.
@@ -50,7 +50,7 @@
 
 You will see option **Developer Options** above About Phone.
   
- #### To start USB Debugging mode
+ ### To start USB Debugging mode
  Connect your device with PC using USB cable.  
   - Go to **Settings -> Developer options**.
   - There will be option **USB debugging** with check box. **Check it**.  
@@ -58,7 +58,7 @@ You will see option **Developer Options** above About Phone.
  
  It will **enable USB debugging mode** for your android device.
   
-  #### Verify Device Connected Properly With PC
+  ### Verify Device Connected Properly With PC
   To verify device is connected properly with PC with USB debugging mode,
    - Open **command prompt** in your PC.
    - Run command **adb devices**.
