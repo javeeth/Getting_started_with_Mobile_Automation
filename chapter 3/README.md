@@ -15,21 +15,21 @@ We will use default and simple calculator app of android phone to learn how to i
 
    ![](https://i.imgur.com/OV63zpQ.png)
 
- - Open Calculator application in your android phone.
- - In UI Automator Viewer software tool, Click on Device Screenshot image button as shown in bellow image.
+ - Open **Calculator application** in your android phone.
+ - In UI **Automator Viewer**, Click on **Device Screenshot image button** as shown in below image.
  
     ![](https://i.imgur.com/nQAM4Pg.png)
     
- - After capturing screenshot of android phone screen, It will show your android phone's calculator's UI in UI Automator Viewer as bellow. 
- - On left site it will show you calculator app's screenshot which is open in android device.
- - Right side top part will show calculator app's UI element's hierarchy view. It will display node structure to explain how elements are arranged.
- - Right side bottom part will show property detail of selected element.
+ - After capturing screenshot of android phone screen, It will **show your android phone's calculator's UI** in UI Automator Viewer as below. 
+ - On **left side** it will show you **calculator app's screenshot** which is open in android device.
+ - **Right side top** part will show **calculator app's UI element's hierarchy view**. It will display node structure to explain **how elements are arranged**.
+ - **Right side bottom** part will show property **detail of selected element**.
  
      ![](https://i.imgur.com/DgbuNpO.png)
 
     
- - In calculator screenshot (which is display in UI Automator Viewer), Select button 5 to view it's different properties as shown in bellow image.
+ - In calculator screenshot (which is display in UI Automator Viewer), Select **button 5** to view it's different properties as shown in bellow image.
     
      ![](https://i.imgur.com/8CtODLI.png)
      
- - It is showing different properties of button 5 in right side node detail section which we can use to locate it using different element locating strategy. 
+ - It is showing different properties of **button 5** in right side node detail section which we can use to locate it using different element locating strategy. 
