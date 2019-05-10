@@ -23,7 +23,7 @@ Simple repo to demonstrate "How to start with Mobile Automation" across platform
    - [To start USB Debugging mode](https://github.com/thenishant/Getting_started_with_Mobile_Automation/blob/master/chapter%202/README.md#To-start-USB-Debugging-mode)
    - [Verify Device Connected Properly With PC](https://github.com/thenishant/Getting_started_with_Mobile_Automation/blob/master/chapter%202/README.md#To-start-USB-Debugging-mode)
 
-## Last steps before running test
+## Last steps before writing test
 - Locating elements 
     - [UiAutomatorViewer](https://github.com/thenishant/Getting_started_with_Mobile_Automation/blob/master/chapter%203/README.md#Locating-elements-using-UIAutomatorViewer)
     - [Appium desktop](https://github.com/thenishant/Getting_started_with_Mobile_Automation/blob/master/chapter%203/README.md#Appium-Desktop)
