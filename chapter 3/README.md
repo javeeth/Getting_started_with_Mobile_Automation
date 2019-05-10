@@ -18,7 +18,7 @@ We will use default and simple calculator app of android phone to learn how to i
  - Open **Calculator application** in your android phone.
  - In UI **Automator Viewer**, Click on **Device Screenshot image button** as shown in below image.
  
-    ![](https://i.imgur.com/nQAM4Pg.png)
+ ![](https://i.imgur.com/nQAM4Pg.png)
     
  - After capturing screenshot of android phone screen, It will **show your android phone's calculator's UI** in UI Automator Viewer as below. 
  - On **left side** it will show you **calculator app's screenshot** which is open in android device.
