@@ -1,6 +1,6 @@
 ## Environment variables
 
-#### on macOS
+#### on macOS/on Linux distributions
 
 - Set **JAVA_HOME**  
 ```echo export "JAVA_HOME=\$(/usr/libexec/java_home)" >> ~/.bash_profile```
@@ -36,7 +36,6 @@
 
   ![alt text](https://i.imgur.com/S8Qiu5i.png)
   
-#### on Linux distributions
 
 ## Connect device In USB debugging mode
  You need to connect real android device with PC in USB debugging mode in order to run android app automation tests in real android device using appium.

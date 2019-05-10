@@ -15,10 +15,9 @@ Simple repo to demonstrate "How to start with Mobile Automation" across platform
 - Jump to [Chapter 1](https://github.com/thenishant/Getting_started_with_Mobile_Automation/tree/master/chapter%201) 
 
 ## Configurations
-- [Environment variables](https://github.com/thenishant/Getting_started_with_Mobile_Automation/blob/master/chapter%202/README.md)
-   - [on macOS](https://github.com/thenishant/Getting_started_with_Mobile_Automation/blob/master/chapter%202/README.md#on-macOS)
+- Environment variables(https://github.com/thenishant/Getting_started_with_Mobile_Automation/blob/master/chapter%202/README.md)
+   - [on macOS/Linux Distribution](https://github.com/thenishant/Getting_started_with_Mobile_Automation/blob/master/chapter%202/README.md#on-macOS/on-Linux-distributions)
    - [on Windows](https://github.com/thenishant/Getting_started_with_Mobile_Automation/blob/master/chapter%202/README.md#on-Windows)
-   - [on Linux distributions](https://github.com/thenishant/Getting_started_with_Mobile_Automation/blob/master/chapter%202/README.md#on-Linux-distributions)
 - Connect device In USB debugging mode  
    - [Enable Developer Option](https://github.com/thenishant/Getting_started_with_Mobile_Automation/blob/master/chapter%202/README.md#Enable-Developer-Option)
    - [To start USB Debugging mode](https://github.com/thenishant/Getting_started_with_Mobile_Automation/blob/master/chapter%202/README.md#To-start-USB-Debugging-mode)
