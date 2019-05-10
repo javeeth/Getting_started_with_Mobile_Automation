@@ -33,3 +33,21 @@ We will use default and simple calculator app of android phone to learn how to i
     ![](https://i.imgur.com/8CtODLI.png)
      
  - It is showing different properties of **button 5** in right side node detail section which we can use to locate it using different element locating strategy. 
+
+ ## Appium Desktop
+
+Appium Desktop is a new graphical interface for starting an Appium server and inspecting your app's structure via Appium. Appium Desktop is available across all Operating Systems.
+ 
+ ![](https://i.imgur.com/TOKTtk6.png)
+ 
+**Start Appium Server**
+
+![](https://i.imgur.com/uPiVmFD.png)
+
+**Appium Inspector**
+
+![](https://i.imgur.com/eaRE8R8.png)
+
+Please check the next section for Desired Capabilities 
+
+ 
