@@ -20,7 +20,7 @@ public class SimpleAndroidCalcTest {
         DesiredCapabilities capabilities = new DesiredCapabilities();
 
         // Set android deviceName desired capability. Set your device name.
-        capabilities.setCapability("deviceName", "ZX1B32FFXF");
+        capabilities.setCapability("deviceName", "YOUR_DEVICE_NAME");
 
         // Set android platformName desired capability. It's Android in our case here.
         capabilities.setCapability("platformName", "Android");
@@ -58,7 +58,7 @@ public class SimpleAndroidCalcTest {
 
         // Get result from result text box.
         int result = Integer.parseInt(driver.findElement(By.id("result")).getText());
-        Assert.assertEquals(result,4);
+        Assert.assertEquals(result, 4);
     }
 
     @AfterTest
