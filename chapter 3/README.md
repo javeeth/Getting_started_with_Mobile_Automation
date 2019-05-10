@@ -48,6 +48,13 @@ Appium Desktop is a new graphical interface for starting an Appium server and in
 
 ![](https://i.imgur.com/eaRE8R8.png)
 
-Please check the next section for Desired Capabilities 
+Please check the next section for Desired Capabilities
+
+## Desired Capabilities
+Desired Capabilities are set of values which tells Appium Server what kind of Automation Server should be started. Desired Capabilities tells Appium drivers all kinds of important things about how you want your test to work. 
+
+Check out Desired Capabilities [Documentation](http://appium.io/docs/en/writing-running-appium/caps/index.html)
+
+![](https://i.imgur.com/SYkvaOm.png)
 
  
