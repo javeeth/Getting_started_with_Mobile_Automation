@@ -32,4 +32,4 @@ Simple repo to demonstrate "How to start with Mobile Automation" across platform
 
 ## Writing code
 
-## troubleshooting
+## Troubleshooting
