@@ -15,7 +15,7 @@ Simple repo to demonstrate "How to start with Mobile Automation" across platform
 - Jump to [Chapter 1](https://github.com/thenishant/Getting_started_with_Mobile_Automation/tree/master/chapter%201) 
 
 ## Configurations
-- Environment variables(https://github.com/thenishant/Getting_started_with_Mobile_Automation/blob/master/chapter%202/README.md)
+- Environment variables
    - [on macOS/Linux Distribution](https://github.com/thenishant/Getting_started_with_Mobile_Automation/blob/master/chapter%202/README.md#on-macOS/on-Linux-distributions)
    - [on Windows](https://github.com/thenishant/Getting_started_with_Mobile_Automation/blob/master/chapter%202/README.md#on-Windows)
 - Connect device In USB debugging mode  
