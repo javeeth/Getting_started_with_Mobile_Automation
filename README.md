@@ -12,12 +12,21 @@ Simple repo to demonstrate "How to start with Mobile Automation" across platform
    ``npm i -g appium-doctor``
 
 ## Verifying the Installation
-Jump to [Chapter 1](https://github.com/thenishant/Getting_started_with_Mobile_Automation/tree/master/chapter%201) 
+- Jump to [Chapter 1](https://github.com/thenishant/Getting_started_with_Mobile_Automation/tree/master/chapter%201) 
 
 ## Configurations
 - [Environment variables](https://github.com/thenishant/Getting_started_with_Mobile_Automation/blob/master/chapter%202/README.md)
-- Capabilities
+   - on macOS
+   - on Windows
+   - on Linux distributions
+- Connect device In USB debugging mode  
+   - Enable Developer Option
+   - To start USB Debugging mode
+   - Verify Device Connected Properly With PC
+
+## Last steps before running test
 - Locators (Appium desktop or UiAutomator)
+- Capabilities
 
 ## Writing code
 
